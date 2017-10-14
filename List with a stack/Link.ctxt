@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=dData
+comment0.target=Link(double)
+comment1.params=l
+comment1.target=void\ setNext(Link)
+comment2.params=
+comment2.target=Link\ getLink()
+comment3.params=
+comment3.target=double\ getData()
+comment4.params=
+comment4.target=void\ displayLink()
+numComments=5
