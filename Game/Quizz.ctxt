@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Quizz()
+comment1.params=movie
+comment1.target=void\ add(java.lang.String)
+comment2.params=
+comment2.target=void\ pick()
+comment3.params=
+comment3.target=void\ game()
+comment4.params=
+comment4.target=boolean\ hasCharacter()
+numComments=5

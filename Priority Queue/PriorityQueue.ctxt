@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=s
+comment0.target=PriorityQueue(int)
+comment1.params=value
+comment1.target=void\ insert(int)
+comment2.params=
+comment2.target=int\ delete()
+comment3.params=
+comment3.target=int\ peek()
+comment4.params=
+comment4.target=boolean\ isEmpty()
+comment5.params=
+comment5.target=boolean\ isFull()
+numComments=6

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=s
+comment0.target=BankQueue(int)
+comment1.params=name
+comment1.target=void\ enque(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ dequeu()
+comment3.params=
+comment3.target=java.lang.String\ peek()
+comment4.params=
+comment4.target=boolean\ isEmpty()
+comment5.params=
+comment5.target=boolean\ isFull()
+comment6.params=
+comment6.target=int\ size()
+comment7.params=n
+comment7.target=java.lang.String\ peekN(int)
+comment8.params=
+comment8.target=void\ display()
+numComments=9
